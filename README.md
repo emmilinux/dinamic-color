@@ -1,5 +1,7 @@
 # dinamic-color
 
+![CSCore Logo](https://raw.githubusercontent.com/emmilinux/dinamic-color/tree/master/screeshot/tema-dinamic-color.png)
+
 ## Instalação
 
 Adicione a pasta dinamic-color em /home/seu-usuário/.themes/
