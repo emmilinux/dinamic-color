@@ -1,6 +1,6 @@
 # dinamic-color
 
-![CSCore Logo](https://raw.githubusercontent.com/emmilinux/dinamic-color/tree/master/screeshot/tema-dinamic-color.png)
+![CSCore Logo](https://raw.githubusercontent.com/emmilinux/dinamic-color/tree/master/screenshots/tema-dinamic-color.png)
 
 ## Instalação
 
